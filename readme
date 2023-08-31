@@ -1,0 +1,5 @@
+For Solving this Assessment i use eclipse environment for developing code and i used selenium with java
+1. Initially , i created a maven repository 
+2. After, that i added all necessary dependices that required for my assessment
+3. in this this project both adding and deleting package both code present in this repository
+4. Necessary configurations that require to run this maven project will obsever in pom.xml file
